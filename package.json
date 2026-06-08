@@ -15,7 +15,7 @@
 		"test:workers": "vitest run"
 	},
 	"dependencies": {
-		"@andrewheberle/remco-consul-worker": "^0.1.2"
+		"@andrewheberle/remco-consul-worker": "^0.1.5"
 	},
 	"devDependencies": {
 		"vitest": "^4.1.7",

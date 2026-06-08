@@ -3,6 +3,22 @@
     "name": "consul-worker",
     "main": "src/index.ts",
     "compatibility_date": "2026-06-04",
+    /*
+    "d1_databases": [
+        {
+            "binding": "DB",
+            "database_name": "consul-worker-db",
+            "database_id": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "secrets_store_secrets": [
+        {
+            "binding": "KEY",
+            "secret_name": "consul-worker-key",
+            "store_id": "0124567890abcdef"
+        }
+    ],
+    */
     "kv_namespaces": [
         {
             "binding": "KV",
