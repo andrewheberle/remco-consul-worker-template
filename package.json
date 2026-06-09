@@ -10,21 +10,12 @@
 	},
 	"scripts": {
 		"cf-typegen": "wrangler types",
-		"dev": "wrangler dev",
-		"schema": "chanfana",
-		"test:workers": "vitest run"
+		"dev": "wrangler dev"
 	},
 	"dependencies": {
 		"@andrewheberle/remco-consul-worker": "^0.1.5"
 	},
 	"devDependencies": {
-		"vitest": "^4.1.7",
 		"wrangler": "^4.95.0"
-	},
-	"release-it": {
-		"git": false,
-		"npm": {
-			"publish": false
-		}
 	}
 }
