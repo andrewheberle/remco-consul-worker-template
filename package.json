@@ -10,6 +10,7 @@
 	},
 	"scripts": {
 		"cf-typegen": "wrangler types",
+		"deploy": "wrangler deploy",
 		"dev": "wrangler dev"
 	},
 	"dependencies": {
