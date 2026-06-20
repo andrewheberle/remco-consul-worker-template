@@ -14,7 +14,7 @@
 		"dev": "wrangler dev"
 	},
 	"dependencies": {
-		"@andrewheberle/remco-consul-worker": "^0.1.5"
+		"@andrewheberle/remco-consul-worker": "^0.2.0"
 	},
 	"devDependencies": {
 		"wrangler": "^4.95.0"
